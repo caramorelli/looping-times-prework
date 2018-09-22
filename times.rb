@@ -1,5 +1,5 @@
-def using_times
-	7.times do |spell|
+def using_times(spell)
+	7.times do 
 	  puts spell
 	end 
 end
