@@ -1,6 +1,6 @@
-def using_times(spell)
+def using_times
 	7.times do 
-	  puts spell
+	  puts 
 	end 
 end
 
